@@ -31,9 +31,6 @@ This project was completed as part of the **ETL and Data Migration certification
 
 ## 🔧 Setup Instructions
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/etl-medical-clinic.git
-   ```
 2. Set up the database:
    - Run the SQL scripts in `sql/` to create tables and stored procedures.
 3. Configure SSIS:
@@ -53,7 +50,7 @@ This project was completed as part of the **ETL and Data Migration certification
 ✅ Enhanced visibility into ETL performance and failures
 
 ## 🤝 Contributions
-Contributions and feedback are welcome! Feel free to submit issues or pull requests.
+----Contributions and feedback are welcome! Feel free to submit issues or pull requests.
 ---
 **Author:** Girum Obse
 
