@@ -17,6 +17,10 @@ This project was completed as part of the **ETL and Data Migration certification
 - **ETL Tools:** SSIS, SQL Jobs  
 - **Scripting:** Python  
 - **Reporting:** SSRS  
+## 📸 Visual Studio Solution Structure
+Here is a screenshot showing the organization of all the project files and folders in Visual Studio:
+
+![Visual Studio Solution](./images/visual_studio_solution.png)
 
 
 ## 📂 Repository Structure
