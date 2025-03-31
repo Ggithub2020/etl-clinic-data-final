@@ -1,21 +1,23 @@
 # ETL Automation for Medical Clinic Data
 
-## 📌 Project Overview
-This project automates the **ETL (Extract, Transform, Load) process** for a small medical clinic that previously relied on a manual CSV file upload workflow. The solution ensures **efficient data ingestion, transformation, and reporting** using **SQL Server, SSIS, and Python**.
+## 📌 Project Overview  
+This project automates the **ETL (Extract, Transform, Load)** process for a small medical clinic that previously relied on a manual CSV file upload workflow. The solution ensures **efficient data ingestion, transformation, and reporting** using **SQL Server, SSIS, and Python**.  
+This project was completed as part of the **ETL and Data Migration certification** course at the **University of Washington**.
 
-## 🚀 Key Features
-- **Automated Data Processing:** Converts raw CSV uploads into a structured database.
-- **Data Warehouse Implementation:** Centralized reporting in `DWClinicReportData`.
-- **Python-Based ETL:** Handles non-SQL data extraction and transformations.
-- **SSIS & SQL Automation:** Developed packages and jobs for automation.
-- **Real-Time Monitoring:** SSRS dashboards for job execution tracking.
-- **SSRS Reports for ETL Logs:** Provides insights into ETL execution history and errors.
+## 🚀 Key Features  
+- **Automated Data Processing:** Converts raw CSV uploads into a structured database.  
+- **Data Warehouse Implementation:** Centralized reporting in `DWClinicReportData`.  
+- **Python-Based ETL:** Handles non-SQL data extraction and transformations.  
+- **SSIS & SQL Automation:** Developed packages and jobs for automation.  
+- **Real-Time Monitoring:** SSRS dashboards for job execution tracking.  
+- **SSRS Reports for ETL Logs:** Provides insights into ETL execution history and errors.  
 
-## 🛠️ Tech Stack
-- **Database:** SQL Server
-- **ETL Tools:** SSIS, SQL Jobs
-- **Scripting:** Python
-- **Reporting:** SSRS
+## 🛠️ Tech Stack  
+- **Database:** SQL Server  
+- **ETL Tools:** SSIS, SQL Jobs  
+- **Scripting:** Python  
+- **Reporting:** SSRS  
+
 
 ## 📂 Repository Structure
 ```
