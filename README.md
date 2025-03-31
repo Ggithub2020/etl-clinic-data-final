@@ -20,7 +20,7 @@ This project was completed as part of the **ETL and Data Migration certification
 ## 📸 Visual Studio Solution Structure
 Here is a screenshot showing the organization of all the project files and folders in Visual Studio:
 
-![Visual Studio Solution](./images/visual_studio_solution.png)
+[Visual Studio Solution](https://github.com/user-attachments/assets/fbae2da4-5917-40c9-b138-31a8bf6ee94b)
 
 
 ## 📂 Repository Structure
