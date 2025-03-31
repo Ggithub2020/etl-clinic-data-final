@@ -54,7 +54,7 @@ Here is a screenshot showing the organization of all the project files and folde
 ✅ Enhanced visibility into ETL performance and failures
 
 ## 🤝 Contributions
-----Contributions and feedback are welcome! Feel free to submit issues or pull requests.
+-Contributions and feedback are welcome! Feel free to submit issues or pull requests.
 ---
 **Author:** Girum Obse
 
